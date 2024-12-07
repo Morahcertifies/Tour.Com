@@ -45,7 +45,19 @@ lets tour Uganda
 <html>
 <head>
     <title>Bwindi Impenetrable Forest</title>
+</head><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Murchison Falls</title>
 </head>
+<body>
+    <h2>Murchison Falls</h2>
+    <p>Murchison Falls is Uganda's largest national park and home to a variety of wildlife and the breathtaking Murchison Falls.</p>
+    <img src="murchison_large.jpg" alt="Murchison Falls" width="500">
+</body>
+</html>
+
 <body>
     <h2>Bwindi Impenetrable Forest</h2>
     <p>Bwindi Impenetrable National Park is known for its mountain gorillas and diverse ecosystems.</p>
